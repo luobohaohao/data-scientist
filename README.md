@@ -5,9 +5,9 @@ Seattle is a famous place for travelling.I want to have some findings from airbn
 
 # Datasource Overview:
 I use following datasets comes from https://www.kaggle.com/airbnb/seattle/data .it include below three datasets:
-Listings, including full descriptions and average review score
-Reviews, including unique id for each reviewer and detailed comments
-Calendar, including listing id and the price and availability for that day
+1. Listings, including full descriptions and average review score
+2. Reviews, including unique id for each reviewer and detailed comments
+3. Calendar, including listing id and the price and availability for that day
 
 
 # Analysis tool:
