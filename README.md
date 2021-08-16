@@ -12,9 +12,9 @@ Calendar, including listing id and the price and availability for that day
 
 # Analysis tool:
 The project use Python3 and below package installed to do the analysis.
-1.Numpy
-2.Pandas
-3.Matplotlib
+1. Numpy
+2. Pandas
+3. Matplotlib
 
 
 # The business answer I can get from data analysis:
