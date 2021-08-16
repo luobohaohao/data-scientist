@@ -23,10 +23,11 @@ From the data analysis I want to get to know below questions
 
 ## Data Understanding
 1. Calendar
-1.1 Data period is from
+1.1 I can see that data period is from 2016-01-04 to 2017-01-02
 1.2 We can see only four fields in this table.
 1.3 For date field: it’s not date type.We need transfer them to date type if we need calculate
 1.4 For price field:it’s not int/float type.We need to transfer them if we need to calculate.There are some missing values in this field.
+
 
 2. Listing
 2.1 There are 91 fields in this table
