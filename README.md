@@ -18,8 +18,8 @@ The project use Python3 and below package installed to do the analysis.
 
 
 # The business answer I can get from data analysis:
-1.When is the best month for travelling to Seattle
-2.Where is the best place to live in Seattle
-3.What factors impact the price
+1. When is the best month for travelling to Seattle
+2. Where is the best place to live in Seattle
+3. What factors impact the price
 Pls get to know the full analysis from my post:
 
